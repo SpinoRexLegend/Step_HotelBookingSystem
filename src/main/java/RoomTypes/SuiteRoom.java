@@ -1,4 +1,6 @@
-public class SuiteRoom extends RoomDet{
+package RoomTypes;
+
+public class SuiteRoom extends RoomDet {
     public SuiteRoom() {
         super(3, 750, 5000);
     }
